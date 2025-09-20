@@ -1,0 +1,5 @@
+{
+  "name": "Cortex Compose: AI Recipe Generator",
+  "description": "An application that generates creative recipes and accompanying images based on the ingredients you have. Powered by Gemini.",
+  "requestFramePermissions": []
+}
